@@ -1,0 +1,10 @@
+
+data/cifar-10-python.tar.gz
+.ipynb_checkpoints/4_cifar10_tutorial-checkpoint.ipynb
+.ipynb_checkpoints/3_neural_networks_tutorial-checkpoint.ipynb
+.ipynb_checkpoints/2_pytorch_learn-checkpoint.ipynb
+.ipynb_checkpoints/2_autograd_tutorial-checkpoint.ipynb
+.ipynb_checkpoints/1_pytorch_learn-checkpoint.ipynb
+data/cifar-10-batches-py/test_batch
+*.jpg
+*.xvg
